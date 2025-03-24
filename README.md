@@ -35,7 +35,7 @@ Once running, open **http://localhost:5000** in your browser.
 
 ## 📞 Contact
 - **Email:** b.thukgwi45@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/bonolo-thukgwi)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/bonolo-thukgwi-b83143237)
 - **GitHub:** [GitHub Profile](https://github.com/<Bonoliie>)
 
 ---
